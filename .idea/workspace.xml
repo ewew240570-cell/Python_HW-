@@ -41,40 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for test_string_utils.test_capitalize.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_string_utils.test_trim.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_string_utils.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python. lesson_1_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1 задание.executor&quot;: &quot;Run&quot;,
-    &quot;Python.address.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1_task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1_task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1_task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2_task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mailing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.smartphone.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_utils.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lesson4&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Евгений/PycharmProjects/Python_HW-/venv&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_string_utils.test_capitalize.executor": "Run",
+    "Python tests.Python tests for test_string_utils.test_trim.executor": "Run",
+    "Python tests.Python tests in test_string_utils.py.executor": "Run",
+    "Python. lesson_1_task_2.executor": "Run",
+    "Python.1 задание.executor": "Run",
+    "Python.address.executor": "Run",
+    "Python.lesson_1_task_1.executor": "Run",
+    "Python.lesson_1_task_3.executor": "Run",
+    "Python.lesson_1_task_4.executor": "Run",
+    "Python.lesson_1_task_5.executor": "Run",
+    "Python.lesson_2_task_1.executor": "Run",
+    "Python.lesson_2_task_2.executor": "Run",
+    "Python.lesson_2_task_3.executor": "Run",
+    "Python.lesson_2_task_4.executor": "Run",
+    "Python.lesson_2_task_5.executor": "Run",
+    "Python.lesson_2_task_6.executor": "Run",
+    "Python.lesson_2_task_7.executor": "Run",
+    "Python.lesson_3_task_1.executor": "Run",
+    "Python.lesson_3_task_2.executor": "Run",
+    "Python.lesson_3_task_3.executor": "Run",
+    "Python.mailing.executor": "Run",
+    "Python.smartphone.executor": "Run",
+    "Python.string_utils.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "lesson6",
+    "last_opened_file_path": "C:/Users/Евгений/PycharmProjects/Python_HW-/venv",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python tests.Python tests for test_string_utils.test_capitalize">
     <configuration name="Python tests for test_string_utils.test_capitalize" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_HW-" />
