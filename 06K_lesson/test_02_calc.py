@@ -1,4 +1,4 @@
-import pytest
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -15,7 +15,9 @@ class TestCalculator:
 
         try:
             # 1. Открыть страницу
-            driver.get("https://bonigarcia.dev/selenium-webdriver-java/slow-calculator.html")
+            (driver.get
+             ("https://bonigarcia.dev/selenium-webdriver-"
+              "java/slow-calculator.html"))
             driver.maximize_window()
 
             # 2. В поле ввода #delay ввести значение 45
@@ -32,8 +34,10 @@ class TestCalculator:
             # 4. Проверить, что в окне отобразится результат 15 через 45 секунд
             # Ожидаем появления результата в дисплее калькулятора
             wait = WebDriverWait(driver, 50)  # ждем до 50 секунд
-            result_element = wait.until(
-                EC.text_to_be_present_in_element((By.CSS_SELECTOR, ".screen"), "15")
+            wait.until(
+                EC.text_to_be_present_in_element(
+                    (By.CSS_SELECTOR, ".screen"), "15"
+                )
             )
 
             # Получаем текст результата

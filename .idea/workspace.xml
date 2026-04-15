@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6534f270-dc1f-410e-b948-b22c825f327f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/06K_lesson/test_03_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_02_calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06K_lesson/test_01_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/06K_lesson/test_01_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06K_lesson/test_02_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/06K_lesson/test_02_calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,10 @@
     "Python tests.Python tests for test_string_utils.test_capitalize.executor": "Run",
     "Python tests.Python tests for test_string_utils.test_trim.executor": "Run",
     "Python tests.Python tests in test_string_utils.py.executor": "Run",
+    "Python tests.pytest in 06K_lesson.executor": "Run",
+    "Python tests.pytest in test_01_form.py.executor": "Run",
+    "Python tests.pytest in test_02_calc.py.executor": "Run",
+    "Python tests.pytest in test_03_shop.py.executor": "Run",
     "Python. lesson_1_task_2.executor": "Run",
     "Python.1 задание.executor": "Run",
     "Python.address.executor": "Run",
@@ -70,12 +78,12 @@
     "Python.user.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lesson6",
+    "git-widget-placeholder": "lesson6K",
     "last_opened_file_path": "C:/Users/Евгений/PycharmProjects/Python_HW-/venv",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_string_utils.test_capitalize">
+  <component name="RunManager" selected="Python tests.pytest in test_03_shop.py">
     <configuration name="Python tests for test_string_utils.test_capitalize" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_HW-" />
       <option name="ENV_FILES" value="" />
@@ -91,25 +99,81 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_string_utils.test_trim" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in 06K_lesson" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_HW-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06K_lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_string_utils.test_trim&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/06K_lesson&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_01_form.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06K_lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/06K_lesson/test_01_form.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_02_calc.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06K_lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/06K_lesson/test_02_calc.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_03_shop.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06K_lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/06K_lesson/test_03_shop.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_03_shop.py" />
+        <item itemvalue="Python tests.pytest in test_02_calc.py" />
+        <item itemvalue="Python tests.pytest in test_01_form.py" />
+        <item itemvalue="Python tests.pytest in 06K_lesson" />
         <item itemvalue="Python tests.Python tests for test_string_utils.test_capitalize" />
-        <item itemvalue="Python tests.Python tests for test_string_utils.test_trim" />
       </list>
     </recent_temporary>
   </component>
